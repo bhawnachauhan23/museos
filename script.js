@@ -369,7 +369,7 @@ function footerAnimation(){
             trigger:"#footer",
             start:"center center",
             end:"center center",
-            markers:true,
+            // markers:true,
             // pin:true,
             scrub:3
         }
